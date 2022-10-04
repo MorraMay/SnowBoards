@@ -159,7 +159,7 @@ body{
 }
 .about__block{
     margin-top: 130px;
-    background-image: url('/img/slider3.jpg');
+    background-image: url(./img/slider3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 130px;
